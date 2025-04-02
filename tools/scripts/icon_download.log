@@ -1,0 +1,89 @@
+2025-04-02 10:15:02,542 - INFO - 临时目录: /Users/yvettelin/code/WebStackPage.github.io-master/tools/data/temp_icons
+2025-04-02 10:15:02,543 - INFO - 最终目录: /Users/yvettelin/code/WebStackPage.github.io-master/assets/images/logos
+2025-04-02 10:15:02,647 - INFO - 开始下载 微软Copilot 的图标
+2025-04-02 10:15:04,055 - INFO - 成功下载 微软Copilot 的图标: https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=128
+2025-04-02 10:15:04,061 - INFO - 开始下载 ChatGPT 的图标
+2025-04-02 10:15:05,230 - INFO - 成功下载 ChatGPT 的图标: https://www.google.com/s2/favicons?domain=chat.openai.com&sz=128
+2025-04-02 10:15:05,235 - INFO - 开始下载 Claude 的图标
+2025-04-02 10:15:06,788 - INFO - 成功下载 Claude 的图标: https://www.google.com/s2/favicons?domain=claude.ai&sz=128
+2025-04-02 10:15:06,793 - INFO - 开始下载 Perplexity AI 的图标
+2025-04-02 10:15:07,994 - INFO - 成功下载 Perplexity AI 的图标: https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=128
+2025-04-02 10:15:07,998 - INFO - 开始下载 You.com 的图标
+2025-04-02 10:15:09,129 - INFO - 成功下载 You.com 的图标: https://www.google.com/s2/favicons?domain=you.com&sz=128
+2025-04-02 10:15:09,135 - INFO - 开始下载 Phind 的图标
+2025-04-02 10:15:10,637 - INFO - 成功下载 Phind 的图标: https://www.google.com/s2/favicons?domain=www.phind.com&sz=128
+2025-04-02 10:15:10,640 - INFO - 开始下载 Gemini 的图标
+2025-04-02 10:15:11,882 - INFO - 成功下载 Gemini 的图标: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128
+2025-04-02 10:15:11,887 - INFO - 开始下载 Poe 的图标
+2025-04-02 10:15:13,011 - INFO - 成功下载 Poe 的图标: https://www.google.com/s2/favicons?domain=poe.com&sz=128
+2025-04-02 10:15:13,016 - INFO - 开始下载 WordPress 的图标
+2025-04-02 10:15:14,231 - INFO - 成功下载 WordPress 的图标: https://www.google.com/s2/favicons?domain=wordpress.org&sz=128
+2025-04-02 10:15:14,236 - INFO - 开始下载 Bootstrap 的图标
+2025-04-02 10:15:15,466 - INFO - 成功下载 Bootstrap 的图标: https://www.google.com/s2/favicons?domain=getbootstrap.com&sz=128
+2025-04-02 10:15:15,471 - INFO - 开始下载 ThemeForest 的图标
+2025-04-02 10:15:16,690 - INFO - 成功下载 ThemeForest 的图标: https://www.google.com/s2/favicons?domain=themeforest.net&sz=128
+2025-04-02 10:15:16,694 - INFO - 开始下载 模板王 的图标
+2025-04-02 10:15:56,568 - ERROR - 无法下载 模板王 的图标
+2025-04-02 10:15:56,568 - INFO - 开始下载 Wix 的图标
+2025-04-02 10:15:58,666 - INFO - 成功下载 Wix 的图标: https://www.google.com/s2/favicons?domain=www.wix.com&sz=128
+2025-04-02 10:15:58,670 - INFO - 开始下载 HTML5 UP 的图标
+2025-04-02 10:15:59,905 - INFO - 成功下载 HTML5 UP 的图标: https://www.google.com/s2/favicons?domain=html5up.net&sz=128
+2025-04-02 10:15:59,910 - INFO - 开始下载 Squarespace 的图标
+2025-04-02 10:16:01,077 - INFO - 成功下载 Squarespace 的图标: https://www.google.com/s2/favicons?domain=www.squarespace.com&sz=128
+2025-04-02 10:16:01,081 - INFO - 开始下载 Canva 的图标
+2025-04-02 10:16:02,256 - INFO - 成功下载 Canva 的图标: https://www.google.com/s2/favicons?domain=www.canva.com&sz=128
+2025-04-02 10:16:02,264 - INFO - 开始下载 阿里云 的图标
+2025-04-02 10:16:03,488 - INFO - 成功下载 阿里云 的图标: https://www.google.com/s2/favicons?domain=www.aliyun.com&sz=128
+2025-04-02 10:16:03,493 - INFO - 开始下载 Google Analytics 的图标
+2025-04-02 10:16:04,702 - INFO - 成功下载 Google Analytics 的图标: https://www.google.com/s2/favicons?domain=analytics.google.com&sz=128
+2025-04-02 10:16:04,706 - INFO - 开始下载 Figma 的图标
+2025-04-02 10:16:05,951 - INFO - 成功下载 Figma 的图标: https://www.google.com/s2/favicons?domain=www.figma.com&sz=128
+2025-04-02 10:16:05,956 - INFO - 开始下载 FileZilla 的图标
+2025-04-02 10:16:07,180 - INFO - 成功下载 FileZilla 的图标: https://www.google.com/s2/favicons?domain=filezilla-project.org&sz=128
+2025-04-02 10:16:07,186 - INFO - 开始下载 GTmetrix 的图标
+2025-04-02 10:16:16,085 - ERROR - 无法下载 GTmetrix 的图标
+2025-04-02 10:16:16,085 - INFO - 开始下载 Trello 的图标
+2025-04-02 10:16:17,202 - INFO - 成功下载 Trello 的图标: https://www.google.com/s2/favicons?domain=trello.com&sz=128
+2025-04-02 10:16:17,209 - INFO - 开始下载 Hotjar 的图标
+2025-04-02 10:16:18,412 - INFO - 成功下载 Hotjar 的图标: https://www.google.com/s2/favicons?domain=www.hotjar.com&sz=128
+2025-04-02 10:16:18,416 - INFO - 开始下载 W3School 的图标
+2025-04-02 10:16:19,666 - INFO - 成功下载 W3School 的图标: https://www.google.com/s2/favicons?domain=www.w3school.com.cn&sz=128
+2025-04-02 10:16:19,671 - INFO - 开始下载 慕课网 的图标
+2025-04-02 10:16:20,785 - INFO - 成功下载 慕课网 的图标: https://www.google.com/s2/favicons?domain=www.imooc.com&sz=128
+2025-04-02 10:16:20,790 - INFO - 开始下载 Codecademy 的图标
+2025-04-02 10:16:22,447 - INFO - 成功下载 Codecademy 的图标: https://www.google.com/s2/favicons?domain=www.codecademy.com&sz=128
+2025-04-02 10:16:22,452 - INFO - 开始下载 菜鸟教程 的图标
+2025-04-02 10:16:23,659 - INFO - 成功下载 菜鸟教程 的图标: https://www.google.com/s2/favicons?domain=www.runoob.com&sz=128
+2025-04-02 10:16:23,665 - INFO - 开始下载 Udemy 的图标
+2025-04-02 10:16:24,681 - INFO - 成功下载 Udemy 的图标: https://www.google.com/s2/favicons?domain=www.udemy.com&sz=128
+2025-04-02 10:16:24,685 - INFO - 开始下载 YouTube 的图标
+2025-04-02 10:16:25,768 - INFO - 成功下载 YouTube 的图标: https://www.google.com/s2/favicons?domain=www.youtube.com&sz=128
+2025-04-02 10:16:25,772 - INFO - 开始下载 Google趋势 的图标
+2025-04-02 10:16:26,839 - INFO - 成功下载 Google趋势 的图标: https://www.google.com/s2/favicons?domain=trends.google.com&sz=128
+2025-04-02 10:16:26,844 - INFO - 开始下载 百度指数 的图标
+2025-04-02 10:16:27,946 - INFO - 成功下载 百度指数 的图标: https://www.google.com/s2/favicons?domain=index.baidu.com&sz=128
+2025-04-02 10:16:27,951 - INFO - 开始下载 Ubersuggest 的图标
+2025-04-02 10:16:29,330 - INFO - 成功下载 Ubersuggest 的图标: https://www.google.com/s2/favicons?domain=neilpatel.com/ubersuggest&sz=128
+2025-04-02 10:16:29,336 - INFO - 开始下载 KeywordTool.io 的图标
+2025-04-02 10:16:30,436 - INFO - 成功下载 KeywordTool.io 的图标: https://www.google.com/s2/favicons?domain=keywordtool.io&sz=128
+2025-04-02 10:16:30,440 - INFO - 开始下载 AnswerThePublic 的图标
+2025-04-02 10:16:31,500 - INFO - 成功下载 AnswerThePublic 的图标: https://www.google.com/s2/favicons?domain=answerthepublic.com&sz=128
+2025-04-02 10:16:31,507 - INFO - 开始下载 5118数据分析 的图标
+2025-04-02 10:16:32,594 - INFO - 成功下载 5118数据分析 的图标: https://www.google.com/s2/favicons?domain=www.5118.com&sz=128
+2025-04-02 10:16:32,600 - INFO - 开始下载 Moz 的图标
+2025-04-02 10:16:33,689 - INFO - 成功下载 Moz 的图标: https://www.google.com/s2/favicons?domain=moz.com&sz=128
+2025-04-02 10:16:33,693 - INFO - 开始下载 SEMrush 的图标
+2025-04-02 10:16:34,927 - INFO - 成功下载 SEMrush 的图标: https://www.google.com/s2/favicons?domain=www.semrush.com&sz=128
+2025-04-02 10:16:34,931 - INFO - 开始下载 Ahrefs 的图标
+2025-04-02 10:16:36,017 - INFO - 成功下载 Ahrefs 的图标: https://www.google.com/s2/favicons?domain=ahrefs.com&sz=128
+2025-04-02 10:16:36,023 - INFO - 开始下载 站长之家 的图标
+2025-04-02 10:16:38,566 - INFO - 成功下载 站长之家 的图标: https://www.chinaz.com/apple-touch-icon.png
+2025-04-02 10:16:38,573 - INFO - 开始下载 Search Engine Journal 的图标
+2025-04-02 10:16:39,661 - INFO - 成功下载 Search Engine Journal 的图标: https://www.google.com/s2/favicons?domain=www.searchenginejournal.com&sz=128
+2025-04-02 10:16:39,666 - INFO - 开始下载 Screaming Frog 的图标
+2025-04-02 10:16:40,738 - INFO - 成功下载 Screaming Frog 的图标: https://www.google.com/s2/favicons?domain=www.screamingfrog.co.uk/seo-spider&sz=128
+2025-04-02 10:16:40,744 - INFO - 开始下载 Search Console 的图标
+2025-04-02 10:16:41,756 - INFO - 成功下载 Search Console 的图标: https://www.google.com/s2/favicons?domain=search.google.com/search-console&sz=128
+2025-04-02 10:16:41,762 - INFO - 开始下载 SEO每天一贴 的图标
+2025-04-02 10:17:07,743 - ERROR - 无法下载 SEO每天一贴 的图标
+2025-04-02 10:17:07,758 - INFO - 下载完成 - 总计: 43, 成功: 40, 失败: 3
