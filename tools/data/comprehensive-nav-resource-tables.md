@@ -60,7 +60,7 @@
 | AnswerThePublic | AnswerThePublic | https://answerthepublic.com | 可视化关键词研究工具，展示用户围绕特定主题提出的问题 | Visual keyword research tool showing questions users ask around specific topics |
 | 5118数据分析 | 5118 Data Analysis | https://www.5118.com | 国内专业的网站数据分析平台，提供关键词挖掘、竞品分析等功能 | Professional website data analysis platform in China, offering keyword mining, competitive analysis, and other features |
 
-## 6. SEO (Search Engine Optimization)
+## 6. SEO (Search Engine)
 
 | 网站名称 | 网站名称（英文） | 网址 | 描述 | 描述（英文） |
 |---------|----------------|------|------|-------------|

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70">
+  <defs>
+    <!-- 主文字渐变 -->
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9013b4" />
+      <stop offset="100%" stop-color="#0b4c7a" />
+    </linearGradient>
+    
+    <!-- 轻微发光效果 -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- 透明背景 -->
+  <rect width="240" height="70" fill="transparent" />
+  
+  <!-- 仅保留优雅流畅的文字设计 -->
+  <!-- Indie 上行 -->
+  <text x="120" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="500" font-size="24" text-anchor="middle" fill="url(#text-gradient)" filter="url(#soft-glow)" letter-spacing="1">Indie</text>
+  
+  <!-- Fantasyland 下行 -->
+  <text x="120" y="55" font-family="Arial, Helvetica, sans-serif" font-weight="500" font-size="24" text-anchor="middle" fill="url(#text-gradient)" filter="url(#soft-glow)" letter-spacing="0.5">Fantasyland</text>
+</svg>
